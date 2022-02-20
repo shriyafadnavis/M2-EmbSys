@@ -1,1 +1,33 @@
+Case Study on Fitness Tracker
+
+
+Requirements
+
+
+High Level Requirements
+
+•	Monitoring heart rate.
+•	Monitoring breathing.
+•	Counts the number of steps.
+•	Watching cardio fitness levels.
+•	Sleep tracking.
+•	Silent alarm.
+•	Smart like your phone.
+
+
+Low Level Requirements.
+•	Accelerometer Sensor-It can be used for multiple things, but is typically put to work counting steps. By measuring orientation and acceleration force, they can determine whether the device is horizontal or vertical, and whether it’s moving or not.
+
+•	Ambient light sensor-Ambient light sensors are all around us. For instance, one tells your phone to dim its screen at night and brighten it in the sun. A fitness tracker uses it for the same purpose, and for detecting the time of day.
+
+•	 Optical sensor-An optical heart-rate monitor measures your heart rate using light. An LED shines through the skin, and an optical sensor examines the light that bounces back.
+
+•	LCD- It is used for display.
+
+•	Temperature Sensor- It is used to detect the temperature through skin temperature sensor.
+
+
+
+
+
 
