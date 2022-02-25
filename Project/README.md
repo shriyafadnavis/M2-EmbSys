@@ -8,7 +8,7 @@ In modern solar tracking systems, the solar panels are fixed on a structure that
 
 In this project the focus is on the implementation of solar tracker using ldr sensors, arduino uno and servo motor.
 
-LDRs are used as the main light sensors. Two servo motors are fixed to the structure that holds the solar panel. The program for Arduino is uploaded to the microcontroller
+LDRs are used as the main light sensors. Two servo motors are fixed to the structure that holds the solar panel. The program for Arduino is uploaded to the microcontroller.
 
 LDRs sense the amount of sunlight falling on them. Four LDRs are divided into top, bottom, left and right.
 
