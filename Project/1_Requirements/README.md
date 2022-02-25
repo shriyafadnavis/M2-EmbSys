@@ -19,9 +19,13 @@
  
  # Components
  Arduino uno
+ 
  Servo motor
+ 
  Light sensors
+ 
  LDR
+ 
  resistors
  
  
