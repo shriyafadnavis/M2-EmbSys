@@ -28,4 +28,6 @@
  
  resistors
  
+ # SWOT ANALYSIS
+ 
  
