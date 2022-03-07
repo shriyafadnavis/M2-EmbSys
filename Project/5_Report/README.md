@@ -97,6 +97,16 @@ How - LDRs are used as main light sensors.Two servo motors are fixed to the stru
   
   # Components
   
+  Arduino uno-
+
+Servo motor- 
+
+Light sensors-
+
+LDR-
+
+Resistors-
+  
  
 
 
