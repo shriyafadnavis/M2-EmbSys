@@ -56,7 +56,9 @@ Weakness Requires more maintenance and are slightly more expensive.
 
 Opportunities This tracker not only tracks the sun as it moves east to west,buit also follows it as it moves from north to south.
 
-#4W 1H What - Solar Tracker
+# 4W 1H
+
+4W 1H What - Solar Tracker
 
 Where - Solar trackers are typically used for ground-mounted solar panels and large, free-standing solar installations like solar trees.
 
