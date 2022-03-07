@@ -11,6 +11,6 @@
   
   |  ID|Requirement|Status|
   |---|---|---|
-  | 01 | Ldr used as main light sensors| Pass |
-  | 02 | | Impemented|
-  | 03 | According to  the more light the servo motor moves in that direction| Implemented|
+  | 01.1 | Ldr used as main light sensors| Pass |
+  | 02.2 | | Impemented|
+  | 03.2 | According to  the more light the servo motor moves in that direction| Implemented|
