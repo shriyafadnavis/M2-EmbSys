@@ -1,6 +1,6 @@
 # High Level Test Plan
 
-|  ID|Description|Status|
+|  ID|Requirement|Status|
   |---|---|---|
   | HR01 | Movement of solar panel according to the position of the sun| Implemented |
   | HR02 | Comparison of the analog values recevied on both right and left side ldr| Impemented|
@@ -9,7 +9,7 @@
   
   # Low Level Test Plan
   
-  |  ID|Description|Status|
+  |  ID|Requirement|Status|
   |---|---|---|
   | HR01 | Movement of solar panel according to the position of the sun| Implemented |
   | HR02 | Comparison of the analog values recevied on both right and left side ldr| Impemented|
