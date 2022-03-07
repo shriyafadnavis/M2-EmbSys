@@ -108,6 +108,8 @@ Resistors-A resistor is a passive two-terminal electrical component that impleme
 Solar Panel(Assumed)- In the above simulation circuit, We have assumed the solar panel is connected to the servo motors. The movement of servo motor indicate the movement of solar panel.Hence The implementation and execution of solar tracker completes on the movement of servo motor.
 
 # Application
+
+Solar trackers are devices used to orient photovoltaic panels, reflectors, lenses or other optical devices toward the sun. Since the sun's position in the sky changes with the seasons and the time of day, trackers are used to align the collection system to maximize energy production.
   
  
 
