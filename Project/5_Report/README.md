@@ -41,4 +41,11 @@ High Level Requirements
   
 Low Level Requirements
 
+ |  ID|Description|Status|
+  |---|---|---|
+  | LR01 | LDRs used as main light sensors | Implemented |
+  | LR02 | Arduino uno | Impemented|
+  | LR03 | Servo motors for movement|Implemented|
+  | LR04 | 100k resistors|Implemented|
+
   
