@@ -4,18 +4,18 @@
 
 |  ID|Description|Status|
   |---|---|---|
-  | HR01 | Movement of solar panel according to the position of the sun| Implemented |
-  | HR02 | Comparison of the analog values recevied on both right and left side ldr| Impemented|
-  | HR03 | According to  the more light the servo motor moves in that direction| Implemented|
+  | HR01 | Movement of solar panel according to the position of the sun| To be Done |
+  | HR02 | Comparison of the analog values recevied on both right and left side ldr| To be Done|
+  | HR03 | According to  the more light the servo motor moves in that direction| To be Done|
   
  *Low Level Requirements*
  
  |  ID|Description|Status|
   |---|---|---|
-  | LR01 | LDRs used as main light sensors | Implemented |
-  | LR02 | Arduino uno | Impemented|
-  | LR03 | Servo motors for movement|Implemented|
-  | LR04 | 100k resistors|Implemented|
+  | LR01 | LDRs used as main light sensors | To be Done |
+  | LR02 | Arduino uno | To be Done|
+  | LR03 | Servo motors for movement|To be Done|
+  | LR04 | 100k resistors|To be Done|
  
  # Components
  Arduino uno
