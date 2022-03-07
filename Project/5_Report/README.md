@@ -7,6 +7,7 @@
 6. Test Plan
 7.  Components
 8.  Applications
+9.  Output
 
 # Abstract
 Solar Tracker using Arduino uno
