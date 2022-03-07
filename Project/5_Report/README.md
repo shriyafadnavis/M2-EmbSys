@@ -47,5 +47,8 @@ Low Level Requirements
   | LR02 | Arduino uno | Impemented|
   | LR03 | Servo motors for movement|Implemented|
   | LR04 | 100k resistors|Implemented|
+  
+  
+  # SWOT ANALYSIS
 
   
