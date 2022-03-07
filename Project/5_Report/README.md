@@ -26,3 +26,6 @@ For east – west tracking, the analog values from two top LDRs and two bottom L
 For angular deflection of the solar panel, the analog values from two left LDRs and two right LDRs are compared. If the left set of LDRs receive more light than the right set, the horizontal servo will move in that direction.
 
 If the right set of LDRs receive more light, the servo moves in that direction.
+
+
+# Requirements
