@@ -97,15 +97,15 @@ How - LDRs are used as main light sensors.Two servo motors are fixed to the stru
   
   # Components
   
-  Arduino uno-
+  Arduino uno- Arduino  Uno is a microcontroller board based on the ATmega328P (datasheet). It has 14 digital input/output pins (of which 6 can be used as PWM outputs), 6 analog inputs, a 16 MHz quartz crystal, a USB connection, a power jack, an ICSP header and a reset button. 
 
-Servo motor- 
+Servo motor (Actuator)- The function of the servo motor is to convert the control signal of the controller into the rotational angular displacement or angular velocity of the motor output shaft.
 
-Light sensors-
+LDR (Sensor)- An LDR is a component that has a (variable) resistance that changes with the light intensity that falls upon it. This allows them to be used in light sensing circuits. Light Dependent Resistors (LDR) are also called photoresistors. They are made of high resistance semiconductor material.
 
-LDR-
+Resistors-A resistor is a passive two-terminal electrical component that implements electrical resistance as a circuit element.
 
-Resistors-
+Solar Panel(Assumed)- In the above simulation circuit, We have assumed the solar panel is connected to the servo motors. The movement of servo motor indicate the movement of solar panel.Hence The implementation and execution of solar tracker completes on the movement of servo motor.
   
  
 
