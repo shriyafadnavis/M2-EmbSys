@@ -73,5 +73,5 @@ How - LDRs are used as main light sensors.Two servo motors are fixed to the stru
 # Circuit Diagram
 
 <img src="CircuitSStracker.png" alt="CircuitSStracker">
-<img src="Circuit.png" alt="Circuit" width="400" height="400">
+<img src="Circuit.png" alt="Circuit" width="500" height="500">
 
