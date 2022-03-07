@@ -110,6 +110,9 @@ Solar Panel(Assumed)- In the above simulation circuit, We have assumed the solar
 # Application
 
 Solar trackers are devices used to orient photovoltaic panels, reflectors, lenses or other optical devices toward the sun. Since the sun's position in the sky changes with the seasons and the time of day, trackers are used to align the collection system to maximize energy production.
+
+# Output
+
   
  
 
