@@ -93,6 +93,10 @@ How - LDRs are used as main light sensors.Two servo motors are fixed to the stru
   |---|---|---|
   | 01.1 | Ldr used as main light sensors| Pass |
   | 01.2 |Ldr Which reveives more light servo motor moves in that direction | Pass|
+  
+  
+  # Components
+  
  
 
 
