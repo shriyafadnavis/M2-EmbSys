@@ -29,3 +29,12 @@ If the right set of LDRs receive more light, the servo moves in that direction.
 
 
 # Requirements
+
+High Level Requirements
+
+|  ID|Description|Status|
+  |---|---|---|
+  | LR01 | Enter data to store according to date | Implemented |
+  | LR02 | View records easily and ablity to update it | Impemented|
+  | LR03 | Adding password encryption | Future|
+  | LR04 | Implementing an option to add reminder | Future|
