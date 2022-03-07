@@ -69,4 +69,7 @@ Why - solar tracker, a system that positions an object at an angle relative to t
 
 How - LDRs are used as main light sensors.Two servo motors are fixed to the structure that holds the solar panel. Ldr sense the amount of light falling on them.For east-west tracking , the analog values from two top LDRs and bottom two LDRs are compared and if the top set of LDRs receive more light, the vertical servo will move in that direction.
 
+
+# Circuit Diagram
+
   
