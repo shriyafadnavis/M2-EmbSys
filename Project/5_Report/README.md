@@ -113,7 +113,7 @@ Solar trackers are devices used to orient photovoltaic panels, reflectors, lense
 
 # Output
 
-<img src = "6_ImagesAndVideo/SolarTracker_Output.png" alt = "Solar Tracker_Output"> 
+<img src = "SolarTracker_Output.png" alt = "Solar Tracker_Output"> 
   
  
 
