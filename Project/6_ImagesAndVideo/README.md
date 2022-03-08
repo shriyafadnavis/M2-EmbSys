@@ -1,4 +1,1 @@
-<video width="320" height="240" controls>
-  <source src="Output-video.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+[![Watch the video](https://github.com/shriyafadnavis/M2-EmbSys/blob/main/Project/5_Report/SolarTracker_Output.png)](https://github.com/shriyafadnavis/M2-EmbSys/blob/main/Project/6_ImagesAndVideo/Output-video.mp4)
