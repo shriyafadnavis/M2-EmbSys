@@ -1,3 +1,2 @@
-<video poster="https://github.com/shriyafadnavis/M2-EmbSys/blob/main/Project/6_ImagesAndVideo/SolarTracker_Output.png" autoplay="autoplay" controls="controls">
-    <source src="Output-video.mp4" type="video/mp4"  />
-</video>
+<img width="959" alt="SolarTracker_Output" src="https://user-images.githubusercontent.com/98838344/157178552-4aeccfdf-fc37-472e-a8b2-e3d318ab4241.png">
+https://user-images.githubusercontent.com/98838344/157178778-4c36a5cf-41ef-4cdf-9750-a15adf4df6bd.mp4
